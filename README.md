@@ -7,11 +7,11 @@
 
 ## 安装
 
-在此程序根目录```npm install```即可。
+```npm install```即可。
 
 ## 配置
 
-复制```config_example.js```文件为```config.js```文件并修改：
+把```config_example.js```文件改名为```config.js```文件进行配置：
 
 ### 本地静态demo文件访问配置
 
@@ -52,3 +52,7 @@ proxy : {
 
 * http://localhost:3000/proxy/getInfo 等于 http://www.abc.com/api/getInfo
 * http://localhost:3000/proxy/setInfo 等于 http://www.abc.com/api/setInfo
+
+## 使用
+
+```npm start```
