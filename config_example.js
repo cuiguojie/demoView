@@ -1,6 +1,6 @@
 var projectConfig = {
     localPath : {
-        url: '/static',
+        url: '/demoView',
         path: '/Users/cuiguojie/Sites/demoView'
     },
     proxy : {
